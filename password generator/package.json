@@ -1,0 +1,11 @@
+{
+    "name": "password-generator",
+    "version": "1.0.0",
+    "description": "Python Password Generator",
+    "main": "password_generator.py",
+    "scripts": {
+        "start": "python password_generator.py"
+    },
+    "author": "",
+    "license": "ISC"
+}
