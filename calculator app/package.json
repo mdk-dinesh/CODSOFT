@@ -1,0 +1,11 @@
+{
+    "name": "simple-calculator-py",
+    "version": "1.0.0",
+    "description": "Simple Python Calculator",
+    "scripts": {
+        "start": "python main.py",
+        "test": "python verify_calculator.py"
+    },
+    "author": "",
+    "license": "ISC"
+}
